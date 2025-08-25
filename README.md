@@ -38,6 +38,7 @@ The game provides feedback (`Too High`, `Too Low`, or `Correct!`) after each gue
 ---
 
 ## 🌐 Live Demo
+ [Play Here](https://bhagyabati-sahu.github.io/Number-guessing-game/)
  
 
 ---
