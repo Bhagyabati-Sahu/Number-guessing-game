@@ -33,7 +33,8 @@ The game provides feedback (`Too High`, `Too Low`, or `Correct!`) after each gue
 ---
 
 ## 📸 Screenshot
-*(Add a screenshot here if you have one, e.g., `screenshot.png`)*
+<img width="1767" height="830" alt="image" src="https://github.com/user-attachments/assets/8721fde6-05e7-4b27-bf4d-0058892e4f54" />
+
 
 ---
 
